@@ -1,0 +1,12 @@
+.active {
+  color: #198754 !important;
+  font-weight: bold;
+  border-bottom: 3px solid #198754;
+}
+.pagination{
+  .active{
+    .page-link{
+      background: #198754 !important;
+    }
+  }
+}
