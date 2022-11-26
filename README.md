@@ -23,6 +23,8 @@ npm install react-router-dom
 
 npm start
 
+Também disponível em https://rickmorty-jade.vercel.app/
+
 Após feito isso aguarde o servidor local carregar e abrir!
 Espero que gostem.
 Forte abraço e espero poder fazer parte do time em breve <3
