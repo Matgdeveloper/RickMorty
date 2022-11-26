@@ -1,7 +1,7 @@
 # rickmorty
 
 Olá seja bem vindo!
-Apresento o projeto do RICK & MORY com consumo de api.
+Apresento o projeto do RICK & MORTY com consumo de api.
 Projeto feito com BootStrap para acelerar o desenvolvimento em questao de filtros de pesquisa, paginations, navs entre outros, também foi usado SASS, React, Css 
 e mais algumas Tecnologias.
 
